@@ -3,10 +3,11 @@
 Ficamos felizes que tenha chegado nesta etapa do processo seletivo para pessoa desenvolvedora em Ruby. Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve implementar uma solução com Ruby (preferencialmente utilizando Rails).
 
 Crie uma API Rest que faça o gerenciamento de estoque de loja. As entidades devem ser: 
-Product: informações de produto (id, nome e preço de custo, por exemplo)
-Store: Informações sobre a loja (id, nome e endereço, por exemplo)
-StockItem: Deve relacionar uma loja a um produto e armazenar a quantidade de itens em estoque
+- Product: informações de produto (id, nome e preço de custo, por exemplo)
+- Store: Informações sobre a loja (id, nome e endereço, por exemplo)
+- StockItem: Deve relacionar uma loja a um produto e armazenar a quantidade de itens em estoque
 
+![Diagrama de domínio](assets/domain-diagram.png)
 
 As operações devem ser:
 - Cadastrar, alterar, excluir e pesquisar produto (apenas por ID) 
