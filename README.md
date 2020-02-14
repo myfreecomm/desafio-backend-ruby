@@ -1,6 +1,6 @@
-# Desafio Nexaas para pessoa desenvolvedora em Ruby
+# Desafio Nexaas para desenvolvedor(a) em Ruby
 
-Ficamos felizes que tenha chegado nesta etapa do processo seletivo para pessoa desenvolvedora em Ruby. Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve implementar uma solução com Ruby (preferencialmente utilizando Rails).
+Ficamos felizes que você tenha chegado nesta etapa do processo seletivo para desenvolvedor(a) em Ruby. Nosso desafio é a construção de uma API Rest, obrigatoriamente você deve implementar uma solução com Ruby (preferencialmente utilizando Rails).
 
 Crie uma API Rest que faça o gerenciamento de estoque de loja. As entidades devem ser: 
 - Product: informações de produto (id, nome e preço de custo, por exemplo)
